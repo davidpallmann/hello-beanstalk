@@ -1,4 +1,4 @@
-# Hello, Lambda!
+# Hello, Beanstalk!
 
 This is the code project for the [Hello, Beanstalk!](https://davidpallmann.hashnode.dev/hello-beanstalk) blog post. 
 
