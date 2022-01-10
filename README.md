@@ -2,7 +2,7 @@
 
 This is the code project for the [Hello, Beanstalk!](https://davidpallmann.hashnode.dev/hello-beanstalk) blog post. 
 
-This episode: AWS Elastic Beanstalk. In this [Hello, Cloud](https://davidpallmann.hashnode.dev/hello-cloud) blog series, we're covering the basics of AWS cloud services for newcomers who are .NET developers. If you love C# but are new to AWS, or to this particular service, this should give you a jumpstart.
+This episode: AWS Elastic Beanstalk. In this [Hello, Cloud](https://davidpallmann.hashnode.dev/series/hello-cloud) blog series, we're covering the basics of AWS cloud services for newcomers who are .NET developers. If you love C# but are new to AWS, or to this particular service, this should give you a jumpstart.
 
 In this post we'll introduce AWS Elastic Beanstalk and use it to host a simple .NET "Hello, Cloud" web API project. We'll do this step-by-step, making no assumptions other than familiarity with C# and Visual Studio. In Part 1, we'll deploy to a development environment. In Part 2, we'll deploy to a production environment with a load balancer and auto-scaling
 
